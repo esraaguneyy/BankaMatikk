@@ -1,0 +1,8 @@
+Giriş
+1. Başla
+2. Kullanıcı_Adi iste.
+3. Sifre iste.
+4. Kullanıcı_Adi ve Sifreyi, Kayıtlı bilgiler ile karşılaştır.
+5. Eğer eşleşiyorsa durum değişkenini 1 yap ve giriş başarılı uyarısı göster.
+6. Eğer eşleşmiyorsa durum değişkenini 0 yap.
+7. Bitir

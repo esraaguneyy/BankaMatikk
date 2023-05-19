@@ -1,0 +1,5 @@
+1 - Başla
+2 - Sistemin servis dışı olduğunu bildir.
+3 - Anamenüye dönmek ister misiniz diye sor.
+4. 0'ı tuşlarsa menüye dön.
+5. Bitir.

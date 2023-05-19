@@ -1,0 +1,7 @@
+Para Yatırma
+1- Başla
+2- Miktarı Sor
+3- Miktar < 5000'den küçükse 5. satırdan devam et.
+4- Miktar > 5000'den büyük ise yükleme limiti aşıldı uyarısı  ver ve 2. adıma dön.
+5. Parayı Bakiyeye Ekle.
+6. Bitir.

@@ -1,0 +1,7 @@
+
+1-Başla
+2-Çekmek İstenen Miktar Sor
+3- Miktar < 5000'den küçükse 5. satırdan devam et.
+4- Miktar > 5000'den büyük ise çekme limiti aşıldı uyarısı ver ve 2. adıma dön.
+5. Parayı Bakiyeden Eksilt
+6. Bitir.

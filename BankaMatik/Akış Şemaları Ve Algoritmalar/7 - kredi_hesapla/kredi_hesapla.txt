@@ -1,0 +1,13 @@
+Kredi Taksit Hesaplama
+1- Başla
+2- Kredi Miktarı Sor
+3- Vade Sürelerini Ve Faizi Görüntüle
+4- Tercih = 1 ise : ay=3; borc = ((miktar/100)(5.42ay))+miktar;
+5.  Tercih = 2 ise: ay = 6; borc = ((miktar/100)(5.42ay))+miktar;
+6 . Tercih = 3 ise : ay=9  borc = ((miktar/100)(3.50ay))+miktar;
+7. Tercih = 4 ise : ay=12  borc = ((miktar/100)(3.10ay))+miktar;
+8. Alınan Miktarı - Geri Ödenecek Miktarı - Aylık Taksit Ücretini Görüntüle
+9. Tekrar İşlem Yapmak İster Misiniz Diye Sor (E/H)
+10. Cevap Evet İse 2. Adıma Git.
+11. Cevap Hayır İse Devam Et.
+12. Bitir.

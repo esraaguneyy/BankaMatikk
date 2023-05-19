@@ -1,0 +1,4 @@
+1 - Başla
+2- Çıkış Yapılıyor yaz.
+3. Giris fonksiyonuna yönlendir.
+4. Bitir.

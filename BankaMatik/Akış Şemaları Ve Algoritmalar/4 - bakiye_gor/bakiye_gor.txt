@@ -1,0 +1,4 @@
+Bakiye Görüntüle
+1-Başla
+2-Kullanılabilir Bakiye Göster
+3-Bitir

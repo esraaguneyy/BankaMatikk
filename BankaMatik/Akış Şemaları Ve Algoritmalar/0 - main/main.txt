@@ -1,0 +1,14 @@
+1- Başla
+2- durum = giris(); fonksiyonunu çalıştır.
+3. durum == 1 ise Ana Menüden devam et. (6. Adıma İlerle)
+4. durum==0 ise kullanıcı adı veya şifre yanlış uyarısı ver.
+5. hatali_giris durmunu 1 arttır. ve 2. adıma dön.
+6. Yapmak istediği işlemi sor. (islem_tercih).
+7. islem_tercih == 1 ise bakiye_gor fonksiyonunu çalıştır.
+8. islem_tercih == 2 ise para_yatir fonksiyonunu çalıştır.
+9. islem_tercih == 3 ise para_cek fonksiyonunu çalıştır.
+10.islem_tercih == 4 ise kredi_hesapla fonksiyonu çalıştır.
+11. islem_tercih == 5 ise servis_disi fonksiyonunu çalıştır.
+12. islem_tercih ==6 ise kullanici_bilgileri fonksiyonunu çalıştır.
+13.islem_tercih == 0 ise cikis fonksiyonunu çalıştır.
+14. Bitir.

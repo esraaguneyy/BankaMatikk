@@ -1,0 +1,9 @@
+Kullanıcı Bilgileri
+1-Başla
+2-İsmi Göster
+3-Kullanıcı Adı Göster
+4-Şifre Göster
+5-Varlık Göster
+6-Hesap Durumu Göster
+7-Tek sefer para çekim limiti göster
+8-Bitir
